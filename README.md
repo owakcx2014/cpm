@@ -34,7 +34,7 @@ sudo ./install.sh
 Compile the binary directly using `cargo`:
 
 ```bash
-git clone https://github.com/your-username/cpm.git
+git clone https://github.com/owakcx2014/cpm.git
 cd cpm
 cargo build --release
 sudo cp target/release/cpm /usr/local/bin/cpm
